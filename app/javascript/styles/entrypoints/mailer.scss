@@ -1049,6 +1049,7 @@ table + p {
 
   .email-desktop-flex {
     display: flex;
+    justify-content: space-between;
   }
 
   .email-header-left {
